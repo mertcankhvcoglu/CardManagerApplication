@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|c:\\users\\mertcan kahvecio\u011Flu\\desktop\\cardmanager\\cardmanager\\addcardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|solutionrelative:cardmanager\\addcardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\cardmanager\\addcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|solutionrelative:cardmanager\\addcardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\cardmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|solutionrelative:cardmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\cardmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|solutionrelative:cardmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\cardmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F117CEBA-755E-4650-AFE7-AA685AB6D608}|CardManager\\CardManager.csproj|solutionrelative:cardmanager\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\AddCardForm.Designer.cs",
+              "RelativeDocumentMoniker": "CardManager\\AddCardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\AddCardForm.Designer.cs",
+              "RelativeToolTip": "CardManager\\AddCardForm.Designer.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:41:37.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCardForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\AddCardForm.cs",
+              "RelativeDocumentMoniker": "CardManager\\AddCardForm.cs",
+              "ToolTip": "C:\\Users\\Mertcan Kahvecio\u011Flu\\source\\repos\\CardManager\\CardManager\\AddCardForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\source\\repos\\CardManager\\CardManager\\AddCardForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:41:30.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "CardManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Mertcan Kahvecio\u011Flu\\source\\repos\\CardManager\\CardManager\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\source\\repos\\CardManager\\CardManager\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:35:37.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CardManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\LoginForm.cs",
+              "RelativeToolTip": "CardManager\\LoginForm.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA2wCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:21:09.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Mertcan Kahvecio\u011Flu\\Desktop\\CardManager\\CardManager\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CardManager\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Mertcan Kahvecio\u011Flu\\source\\repos\\CardManager\\CardManager\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\source\\repos\\CardManager\\CardManager\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:20:40.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
